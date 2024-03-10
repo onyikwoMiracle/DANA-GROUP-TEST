@@ -1,0 +1,8 @@
+.product-page-container h2 {
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+
+.product-page-container .search input {
+  width: 400px;
+}
